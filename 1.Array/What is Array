@@ -1,0 +1,19 @@
+An array is a foundational data structure that stores a collection of elements of the same size and data type in contiguous memory locations. 
+Each element is identified by an index, allowing for instant, direct access to any item.
+
+Core Characteristics of Array:-
+Homogeneous: Usually holds elements of the identical data type (e.g., all integers or all strings).
+Contiguous Memory: Elements are stored right next to each other in memory, making them highly efficient.
+Indexed: Positions are assigned numbers, usually starting at 0 (zero-based indexing).
+Fixed Size: In many languages like Java or C, the size must be declared upfront and cannot be dynamically changed.
+
+Common Operations:-
+Traversal: Visiting every element in the array one by one.
+Insertion/Deletion: Adding or removing an element (which can be slow if shifting all subsequent elements is required).
+Search: Finding the location of a specific element.
+Accessing: Looking up a specific value using its exact index. 
+
+Multidimensional Arrays - Arrays can have more than one dimension, functioning essentially as "arrays of arrays".
+1D Array: A single list or sequence of items.
+2D Array: A grid structured with rows and columns, used to represent matrices or tables.
+3D Array: A collection of two-dimensional arrays. It can be visualised as multiple 2D arrays stacked on top of each other.
